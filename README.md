@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm a Full-Stack Developer</h1>
 <h3 align="center">A passionate developer building scalable web applications and AI-powered solutions 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithunza&label=Profile%20views&color=0e75b6&style=flat" alt="codewithunza" /> </p>
 
 ---
@@ -35,7 +33,6 @@ hobbies: ["Coding", "Building AI Solutions", "Tech Blogging"]
 - 🔭 I'm currently working on **AI Agent Systems & Automation Workflows**
 - 🌱 I'm currently learning **Advanced LangGraph, CrewAI & Agent Frameworks**
 - 💬 Ask me about **MERN Stack, Next.js, AI Agents, n8n Automation**
-- 📫 How to reach me **codewithunza@gmail.com**
 - ⚡ Fun fact **I turn coffee into code ☕→💻**
 
 ---
